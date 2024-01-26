@@ -3,7 +3,7 @@ body {
   font-size: 120%;
 
   background-position: fixed;
-  background-image: url(images/retro-bk.jpg);
+  background-image: url(/images/retro-bk.jpg);
 }
 
 a {
@@ -131,7 +131,7 @@ h5, p {
  color: aliceblue;
  padding-top: 40px;
  padding-bottom: 310px;
- background-image: url(images/retro-pc-1.png);
+ background-image: url(/images/retro-pc-1.png);
  background-repeat: no-repeat;
  background-size: 100%;
  background-position: fixed;
