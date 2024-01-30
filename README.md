@@ -16,7 +16,7 @@ https://xanlefee.github.io/Web-API-Coding-Quiz
 
 
 
-<img src="starter/assets/images/WEB-API-QUIZ-GIF.gif" width="800" />
+<img src="starter/assets/images/Coding Quiz.png" width="800" />
 
 
 
